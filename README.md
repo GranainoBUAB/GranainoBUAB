@@ -1,4 +1,4 @@
-### Developper Junior BackEnd
+### Developer Junior BackEnd
 
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 
