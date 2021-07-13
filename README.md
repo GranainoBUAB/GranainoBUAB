@@ -1,4 +1,11 @@
-### Hi there 👋
+### Developper Junior BackEnd
+
+Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
+
+Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
+
+
+
 
 <!--
 **GranainoBUAB/GranainoBUAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
