@@ -28,13 +28,13 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 
+- 🔭 Estoy trabajando en [KlikShare Back](https://github.com/KlikProjects/KLikShareBACK) y [KlikShare Front](https://github.com/KlikProjects/KlikShareFront), un proyecto basado en poder ofrecer gratis cosas que no usamos mas en casa. Basado en Laravel y Api (Back) y Vue para consumo de las Api (Front).
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=granainobuab&label=Profile%20views&color=0e75b6&style=flat" alt="granainobuab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granainobuab" alt="granainobuab" /></a> </p>
-
-- 🔭 Estoy trabajando en [KlikShare Back](https://github.com/KlikProjects/KLikShareBACK) y [KlikShare Front](https://github.com/KlikProjects/KlikShareFront), un proyecto basado en poder ofrecer gratis cosas que no usamos mas en casa. Basado en Laravel y Api (Back) y Vue para consumo de las Api (Front).
-
 
 
 <h3 align="left">Languages and Tools:</h3>
