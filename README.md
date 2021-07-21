@@ -35,9 +35,6 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 - 🔭 Estoy trabajando en [KlikShare Back](https://github.com/KlikProjects/KLikShareBACK) y [KlikShare Front](https://github.com/KlikProjects/KlikShareFront), un proyecto basado en poder ofrecer gratis cosas que no usamos mas en casa. Basado en Laravel y Api (Back) y Vue para consumo de las Api (Front).
 
-- 🌱 Estoy estudiando Api en Laravel y Consumo de Api desde Vue.
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
