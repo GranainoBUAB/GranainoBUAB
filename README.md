@@ -33,7 +33,7 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granainobuab" alt="granainobuab" /></a> </p>
 
-- 🔭 Estoy trabajando en [1111](2536)
+- 🔭 Estoy trabajando en [KlikShare Back](https://github.com/KlikProjects/KLikShareBACK) y [KlikShare Front](https://github.com/KlikProjects/KlikShareFront), un proyecto basado en poder ofrecer gratis cosas que no usamos mas en casa. Basado en Laravel y Api (Back) y Vue para consumo de las Api (Front).
 
 - 🌱 Estoy estudiando Api en Laravel y Consumo de Api desde Vue.
 
