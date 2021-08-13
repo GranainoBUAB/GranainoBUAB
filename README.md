@@ -36,6 +36,6 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green)
+<p align="center">![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green)</p>
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GranainoBUAB)
