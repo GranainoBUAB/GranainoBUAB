@@ -28,7 +28,7 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 
-- 🔭 Estoy trabajando en [KlikShare Back](https://github.com/KlikProjects/KLikShareBACK) y [KlikShare Front](https://github.com/KlikProjects/KlikShareFront), un proyecto basado en poder ofrecer gratis cosas que no usamos mas en casa. Basado en Laravel y Api (Back) y Vue para consumo de las Api (Front).
+- 🔭 Estoy trabajando en [Hangar Rebelde](https://github.com/ProjectComixSix/HangarRebelde), un proyecto basado en una tuenda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
 
 
 <h3 align="center">Languages and Tools:</h3>
