@@ -37,7 +37,7 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
