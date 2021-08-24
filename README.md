@@ -1,4 +1,4 @@
-<!--### Software Developer Back-End
+<!--### Software Developer Full-Stack
 
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 
