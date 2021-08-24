@@ -1,17 +1,4 @@
-<!--### Software Developer Full-Stack
-
-Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
-
-Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
--->
-
-
-
 <!--
-**GranainoBUAB/GranainoBUAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Software Developer Back-End</h3>
+<h3 align="center">Software Developer Full-Stack</h3>
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
