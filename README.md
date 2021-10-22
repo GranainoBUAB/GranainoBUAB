@@ -15,7 +15,7 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 
-- 🔭 Estoy trabajando en [Hangar Rebelde](https://github.com/ProjectComixSix/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
+- 🔭 Estoy trabajando en [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
 
 
 <h3 align="center">Languages and Tools:</h3>
