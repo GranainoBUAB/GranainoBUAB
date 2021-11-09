@@ -14,7 +14,7 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
-- 🏁 Trabajando en una APi/Json [apiF1Stats](https://github.com/GranainoBUAB/apiF1Stats) para que los usuraios puedan recibir las estadisticas completas de toda la hisotria de la F1.
+- 🏁 Trabajando en una APi/Json [apiF1Stats](https://github.com/GranainoBUAB/apiF1Stats) para que los usuarios puedan recibir las estadisticas completas de toda la historia de la F1.
 
 
 - 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
