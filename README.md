@@ -31,9 +31,9 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 ## Most Used Languages last 30 days
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@GranainoBUAB/103fe37e-67db-4876-979d-4f98152da1e5.png" width=75%/></a>
-
+-->
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GranainoBUAB)
