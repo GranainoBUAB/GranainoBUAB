@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Software Developer Full-Stack DEsde el xxx de abil del 2000</h3>
+<h3 align="center">Software Developer Full-Stack</h3>
 Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patrones de diseño MVC.
 
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
