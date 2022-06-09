@@ -37,6 +37,8 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 -->
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)](https://github.com/GranainoBUAB/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical)
+
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GranainoBUAB)
 
