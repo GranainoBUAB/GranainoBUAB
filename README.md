@@ -35,6 +35,8 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 ## Most Used Languages last 30 days
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@GranainoBUAB/103fe37e-67db-4876-979d-4f98152da1e5.png" width=75%/></a>
 -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)](https://github.com/GranainoBUAB/github-readme-stats)
+
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GranainoBUAB)
 
