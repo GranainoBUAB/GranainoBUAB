@@ -14,7 +14,7 @@ Trabajando con metodologías ágiles, clean arquitecture, SCRUM, TDD, OOP y patr
 
 Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
-- 🕹️ Trabajando en un proyecto para recuperar los datos de playstation desde Laravel para luego exportarlos en Api para Vue y React...
+- 🕹️ Trabajando en un proyecto para recuperar los datos de playstation desde Laravel para luego exportarlos en Api para React...
 
 
 - 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
