@@ -27,24 +27,9 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 ## Most Used Languages from the beginning
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green&langs_count=10)
 
-<!--
-[![GranainoBUAB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GranainoBUAB&theme=highcontrast)](https://git.io/streak-stats)
-
-<!--
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=GranainoBUAB&theme=juicyfresh)
--->
-
 
 
 ##
