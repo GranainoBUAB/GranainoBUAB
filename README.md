@@ -47,4 +47,4 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GranainoBUAB&theme=2077) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GranainoBUAB&theme=2077&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GranainoBUAB&theme=2077&utcOffset=2) 
