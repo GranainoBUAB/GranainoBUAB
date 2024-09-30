@@ -20,8 +20,9 @@ Experiencia en HTML, CSS, Javascript, PHP y frameworks como Laravel y Vue.js.
 - 🔭 Ultimo gran proyecto [Hangar Rebelde](https://github.com/GranainoBUAB/HangarRebelde), un proyecto basado en una tienda de comics para que el usuario pueda ver el catalogo de la tienda, reservar o comprar comics, paga por pasarela de pago o en tienda y que sea pedido enviado a casa o recogido en tienda.
 - 
 
-![image](https://github.com/user-attachments/assets/fd0a7fd1-87f2-42d4-8282-d8b8fa643903)
-![image](https://github.com/user-attachments/assets/0c11cc39-abe6-49e6-9d8f-ee4d91cdb084)
+![image](https://github.com/user-attachments/assets/fd0a7fd1-87f2-42d4-8282-d8b8fa643903) ![image](https://github.com/user-attachments/assets/0c11cc39-abe6-49e6-9d8f-ee4d91cdb084)
+
+<img align='center' src='https://github.com/user-attachments/assets/fd0a7fd1-87f2-42d4-8282-d8b8fa643903' width='200'>
 
 
 <h3 align="center">Languages and Tools:</h3>
