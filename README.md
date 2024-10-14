@@ -35,5 +35,15 @@ Experiencia en PHP y AWS.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)](https://github.com/anuraghazra/github-readme-stats)
 
+### Demo
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
+
+*   Compact layout
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+
+***
 
