@@ -21,9 +21,8 @@ Experiencia en PHP y AWS.
 
 ## Most Used Languages from the beginning
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green&langs_count=10)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GranainoBUAB&theme=highcontrast)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green&langs_count=10) ![GranainoBUAB's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB\&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GranainoBUAB&theme=highcontrast)](https://git.io/streak-stats)
 
 ##
 
@@ -32,10 +31,3 @@ Experiencia en PHP y AWS.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GranainoBUAB&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GranainoBUAB&theme=2077) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GranainoBUAB&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GranainoBUAB&theme=2077&utcOffset=2) 
-
-##
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB\&layout=compact)
-
-***
-
