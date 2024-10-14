@@ -24,7 +24,6 @@ Experiencia en PHP y AWS.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green&langs_count=10)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GranainoBUAB&theme=highcontrast)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true)  
 
 ##
 
