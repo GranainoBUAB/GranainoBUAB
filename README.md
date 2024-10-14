@@ -33,13 +33,9 @@ Experiencia en PHP y AWS.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GranainoBUAB&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GranainoBUAB&theme=2077&utcOffset=2) 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Demo
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB\&hide_progress=true)
 
 *   Compact layout
 
