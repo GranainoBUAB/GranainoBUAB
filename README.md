@@ -24,6 +24,26 @@ Experiencia en PHP y AWS.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GranainoBUAB&theme=blue-green&langs_count=10) ![GranainoBUAB's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GranainoBUAB\&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GranainoBUAB&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GranainoBUAB&theme=highcontrast)](https://git.io/streak-stats)
 
+
+----------
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=granainobuab&label=Profile%20views&color=0e75b6&style=flat" alt="granainobuab" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granainobuab" alt="granainobuab" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@granainobuab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@granainobuab" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=granainobuab&show_icons=true&locale=en&layout=compact" alt="granainobuab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=granainobuab&show_icons=true&locale=en" alt="granainobuab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=granainobuab&" alt="granainobuab" /></p>
+
 ##
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GranainoBUAB&theme=2077)  
